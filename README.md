@@ -1,5 +1,5 @@
 ### Hi,I'm Angshu👋🧑🏻
-contact me https://camo.githubusercontent.com/2a152b90ceb85f284847fa029b744f442d9255a47dc7e334bfb2c0899f559388/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3974587350683849635736385832337564672f67697068792e676966
+
 <!--
 **angshuBHADRA/angshuBHADRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
