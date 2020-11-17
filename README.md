@@ -1,5 +1,5 @@
 ### Hi,I'm Angshu👋🧑🏻
-Hey
+I'm a final year under graduate student searching for opportunities to grow keen to learn new technologies love to work on real world projects.
 
 <!--
 **angshuBHADRA/angshuBHADRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
