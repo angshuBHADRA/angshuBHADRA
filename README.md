@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 📫 How to reach me: bhadraangshu@gmail.com
 
+![](https://komarev.com/ghpvc/?username=shahbajjamil&color=green)
 
-
+[![MD Shahbaj Jamil's Github Stats](https://github-readme-stats.vercel.app/api?username=shahbajjamil&show_icons=true&theme=radical)](https://shahbajjamil.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbajjamil&theme=gruvbox)](https://shahbajjamil.github.io/)
