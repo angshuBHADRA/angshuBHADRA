@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=shahbajjamil&color=green)
 
-[![MD Shahbaj Jamil's Github Stats](https://github-readme-stats.vercel.app/api?username=shahbajjamil&show_icons=true&theme=radical)](https://shahbajjamil.github.io/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbajjamil&theme=gruvbox)](https://shahbajjamil.github.io/)
+[![Angshu Bhadra's Github Stats](https://github-readme-stats.vercel.app/api?username=angshuBHADRA&show_icons=true&theme=radical)](https://angshuBHADRA.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angshuBHADRA&theme=gruvbox)](https://angshuBHADRA.github.io/)
