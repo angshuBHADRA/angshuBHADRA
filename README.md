@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 📫 How to reach me: bhadraangshu@gmail.com 
 
-![](https://komarev.com/ghpvc/?username=angshuBHADRA&color=yellow)
+<!-- ![](https://komarev.com/ghpvc/?username=angshuBHADRA&color=yellow)
 
-[![Angshu Bhadra's Github Stats](https://github-readme-stats.vercel.app/api?username=angshuBHADRA&show_icons=true&theme=radical)](https://angshuBHADRA.github.io/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angshuBHADRA&theme=gruvbox)](https://angshuBHADRA.github.io/)
+    [![Angshu Bhadra's Github Stats](https://github-readme-stats.vercel.app/api?username=angshuBHADRA&show_icons=true&theme=radical)](https://angshuBHADRA.github.io/)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angshuBHADRA&theme=gruvbox)](https://angshuBHADRA.github.io/)
