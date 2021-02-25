@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **bhadraangshu@gmail.com**
 
-- ⚡ Fun fact **Coffee lover**
+ **A Coffee lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
