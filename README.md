@@ -1,5 +1,5 @@
 # Hi,I'm Angshu  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🧑🏻
-### I am a final year under graduate student searching for new opportunities to grow.Keen to learn new technologies love to work on real world projects.
+      ### I am a final year under graduate student searching for new opportunities to grow.Keen to learn new technologies love to work on real world projects.
 
 <!--
 **angshuBHADRA/angshuBHADRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> 📫 How to reach me: bhadraangshu@gmail.com 
+- 📫 How to reach me: bhadraangshu@gmail.com 
 
  <!-- ![](https://komarev.com/ghpvc/?username=angshuBHADRA&color=yellow)
 
