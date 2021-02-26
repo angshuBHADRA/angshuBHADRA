@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **bhadraangshu@gmail.com**
 - 💬 Most used line of code **git commit -m "Initial Commit**
 
-     **A Coffee lover**
+   ## A Coffee lover
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
