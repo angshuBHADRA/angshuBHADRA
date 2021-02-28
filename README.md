@@ -51,12 +51,6 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=nord)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-
-
-
-
 
 
 
@@ -74,7 +68,12 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angshubhadra&show_icons=true&locale=en" alt="angshubhadra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angshubhadra&" alt="angshubhadra" /></p>
+
+
+
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=angshuBHADRA&theme=nord)](https://github.com/angshuBHADRA/github-readme-streak-stats)
+
+    
 
 
 
