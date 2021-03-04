@@ -1,7 +1,7 @@
 # Hi,I'm Angshu  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🧑🏻
 ### I am a final year under graduate student searching for new opportunities to grow.Keen to learn new technologies love to work on real world projects.
 
-![hello](https://user-images.githubusercontent.com/23444642/99659283-a6f52500-2a86-11eb-9cbc-11479bc8d9f7.gif)
+  
 
 <!--
 **angshuBHADRA/angshuBHADRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angshuBHADRA&theme=gruvbox)](https://angshuBHADRA.github.io/) -->
 
 
-
+      ![hello](https://user-images.githubusercontent.com/23444642/99659283-a6f52500-2a86-11eb-9cbc-11479bc8d9f7.gif
 
 
 
