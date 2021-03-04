@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
      [![Angshu Bhadra's Github Stats](https://github-readme-stats.vercel.app/api?username=angshuBHADRA&show_icons=true&theme=radical)](https://angshuBHADRA.github.io/)
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angshuBHADRA&theme=gruvbox)](https://angshuBHADRA.github.io/) -->
-       ![hello](https://user-images.githubusercontent.com/23444642/99659283-a6f52500-2a86-11eb-9cbc-11479bc8d9f7.gif
+       
 
 
 
