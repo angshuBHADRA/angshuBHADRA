@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 
 
-      [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=angshuBHADRA&theme=nord)](https://github.com/angshuBHADRA/github-readme-streak-stats)
+      
 
     
 
