@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **bhadraangshu@gmail.com**
 - 💬 Most used line of code **git commit -m "Initial Commit**
+
 ![hello-world](https://user-images.githubusercontent.com/61795945/111033170-eaa8db80-8435-11eb-9ee3-3f903a573b96.gif)
 
    # I listen before talk. 
