@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 - 💬 Most used line of code **git commit -m "Initial Commit**
 - 🌱 You can Star ⭐ the **repositories** you like.
 
+<img src="https://raw.githubusercontent.com/EFPrefix/EFQRCode/assets/QRCodeGIF6.gif" width = "36%"/>
 
    # I listen before talk. 
 
