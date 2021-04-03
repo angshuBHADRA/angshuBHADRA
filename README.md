@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 - 💬 Most used line of code **git commit -m "Initial Commit**
 - 🌱 You can Star ⭐ the **repositories** you like.
 
-Here is some extra information about me.
-
+# Here is some extra information about me.
 ![DEMO](https://user-images.githubusercontent.com/61795945/113481795-47d60100-94b9-11eb-9c28-53c4249fe7cb.png)
 
 
