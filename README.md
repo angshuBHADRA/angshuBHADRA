@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angshubhadra&label=Profile%20views&color=0e75b6&style=flat" alt="angshubhadra" /> </p>
 
 - 📫 How to reach me **bhadraangshu@gmail.com**
-- 💬 Most used line of code **git commit -m "Initial Commit**
+- 💬 Most used line of code **git commit -m "Programming by choice"**
 - 🌱 You can Star ⭐ the **repositories** you like.
 
- <h2 align="right"> Here is some extra information about me.</h2>
+ <h2 align="right"> 😇 Here is some extra information about me.👇</h2>
 <p  align="right">
 <img src="https://user-images.githubusercontent.com/61795945/113481795-47d60100-94b9-11eb-9c28-53c4249fe7cb.png">
 </p>
