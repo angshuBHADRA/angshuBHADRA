@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 🌱 You can Star ⭐ the **repositories** you like.
 
 # Here is some extra information about me.
-![DEMO](https://user-images.githubusercontent.com/61795945/113481795-47d60100-94b9-11eb-9c28-53c4249fe7cb.png)
+<h1 align="center" >! [DEMO](https://user-images.githubusercontent.com/61795945/113481795-47d60100-94b9-11eb-9c28-53c4249fe7cb.png)</h1>
 
 
    # I listen before talk. 
