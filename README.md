@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **bhadraangshu@gmail.com**
 - 💬 Most used line of code **git commit -m "Programming by choice"**
 - 🌻 You can Star ⭐ the **repositories** you like.
-- 💭 Ask me about **Java*
+- 💭 Ask me about **Java**
 - 📄 Click here to Download my resume. [Click Here](https://github.com/angshuBHADRA/resume/raw/main/Resume_AngshuBhadar.pdf)
  
  # I listen before talk. 
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 
 
-### Wanna stalk my website:question::point_right: [Click Here](https://github.com/angshuBHADRA/resume/raw/main/Resume_AngshuBhadar.pdf):sparkles:
+### 📄 Click here to Download my resume. ::point_right: [Click Here](https://github.com/angshuBHADRA/resume/raw/main/Resume_AngshuBhadar.pdf)
 
 
       
