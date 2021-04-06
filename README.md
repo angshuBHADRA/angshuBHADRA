@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 💬 Most used line of code **git commit -m "Programming by choice"**
 - 🌱 You can Star ⭐ the **repositories** you like.
 
- <h2 align="right"> 😇 Here is some extra information about me.👇</h2>
+ <h2 align="middle"> 😇 Here is some extra information about me.👇</h2>
 <p  align="right">
 <img src="https://user-images.githubusercontent.com/61795945/113481795-47d60100-94b9-11eb-9c28-53c4249fe7cb.png">
 </p>
