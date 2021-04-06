@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 💬 Most used line of code **git commit -m "Programming by choice"**
 - 🌻 You can Star ⭐ the **repositories** you like.
 - 💭 Ask me about **Java*
-- 📄 Click here to Download my resume. 
+- 📄 Click here to Download my resume. https://github.com/angshuBHADRA/resume/raw/main/Resume_AngshuBhadar.pdf
  
  # I listen before talk. 
 
