@@ -91,12 +91,12 @@ Here are some ideas to get you started:
 
 
 
-### 📄 Click here to Download my resume ::point_right: [Click Here](https://github.com/angshuBHADRA/resume/raw/main/Resume_AngshuBhadar.pdf)
+### 📄 Do read my resume here: ::point_right: [Click Here](https://github.com/angshuBHADRA/resume/raw/main/Resume_AngshuBhadar.pdf)
 
 
       
 
-    
+
 
 
 
