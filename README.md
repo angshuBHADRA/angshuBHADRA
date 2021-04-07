@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 - 💭 Ask me about **Java**
 
  
- # I listen before talk. 
+ ### 📄 Do read my resume here: :point_right: [Click Here](https://github.com/angshuBHADRA/resume/raw/main/Resume_AngshuBhadar.pdf)
+
 
  <!--   <h3 align="left">Connect with me:</h3>
 <p align="left">
