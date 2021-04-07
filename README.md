@@ -89,13 +89,7 @@ Here are some ideas to get you started:
 
 
 
-
-### 📄 Do read my resume here: :point_right: [Click Here](https://github.com/angshuBHADRA/resume/raw/main/Resume_AngshuBhadar.pdf)
-
-
       
-
-
 
 
 
