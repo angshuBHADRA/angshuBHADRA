@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center"></h1>
+<h1 align="center">A fullstack JAvaScript Developer</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angshubhadra&label=Profile%20views&color=0e75b6&style=flat" alt="angshubhadra" /> </p>
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 
 
-
+<!-- Profile Part-->
 
 
 <h3 align="left"> :handshake: Connect with me:</h3>
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 
 
-
+<!--The QR Code part-->
 
 <h2 align="right"> 😇 Here is some extra information about me.👇</h2>
 <p  align="right">
