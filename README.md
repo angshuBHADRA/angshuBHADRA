@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 💭 Ask me about **Java**
 
  
- ### 📄 <mark Do read my resume here:> :point_right: [Click Here](https://github.com/angshuBHADRA/resume/raw/main/Resume_AngshuBhadar.pdf)💥
+ ### 📄 <mark> Do read my resume here:</mark> :point_right: [Click Here](https://github.com/angshuBHADRA/resume/raw/main/Resume_AngshuBhadar.pdf)💥
 
 
  <!--   <h3 align="left">Connect with me:</h3>
