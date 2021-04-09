@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left"> :handshake: Connect with me:</h3>
+<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/angshu-bhadra-b456a5196/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/angshu-bhadra-b456a5196" height="30" width="40" /></a>
 <a href="https://instagram.com/angshu_bhadra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="angshu_bhadra" height="30" width="40" /></a>
