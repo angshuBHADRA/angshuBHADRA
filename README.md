@@ -1,4 +1,6 @@
-![1c2206bb01f7f36493d0526d4ef82d512a414777r1-320-130_hq](https://user-images.githubusercontent.com/61795945/114606941-8e95d900-9cb9-11eb-9a2d-416a97375084.gif)
+<p  align="center">
+<img src="1c2206bb01f7f36493d0526d4ef82d512a414777r1-320-130_hq](https://user-images.githubusercontent.com/61795945/114606941-8e95d900-9cb9-11eb-9a2d-416a97375084.gif">
+</p>
 
 <!-- ![hello-world](https://user-images.githubusercontent.com/61795945/111033170-eaa8db80-8435-11eb-9ee3-3f903a573b96.gif) -->
 
