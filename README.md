@@ -1,10 +1,10 @@
 <p  align="middle">
-<img src="https://user-images.githubusercontent.com/61795945/114606941-8e95d900-9cb9-11eb-9a2d-416a97375084.gif" hight="800px">
+<img src="https://user-images.githubusercontent.com/61795945/114606941-8e95d900-9cb9-11eb-9a2d-416a97375084.gif">
 </p>
 
 <!-- ![hello-world](https://user-images.githubusercontent.com/61795945/111033170-eaa8db80-8435-11eb-9ee3-3f903a573b96.gif) -->
 
-# Hi,I'm Angshu Bhadra <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="900PX"> 🧑🏻
+# Hi,I'm Angshu Bhadra <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50PX"> 🧑🏻
 
 ### I am a final-year undergraduate student searching for new opportunities to grow. Keen to learn new technologies love to work on real-world projects.
 
