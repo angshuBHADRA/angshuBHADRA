@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **bhadraangshu@gmail.com**
 - 💬 **git commit -m "Programmer by choice"**
 - 🌻 You can Star ⭐ the **repositories** you like.
-- 💭 Ask me about **Java**
+- 💭 Ask me about **Java**, **GIT**
 
  
  ### 📄 Do read my resume here: :point_right: [Click Here](https://github.com/angshuBHADRA/resume/raw/main/Resume_AngshuBhadar.pdf)💥
