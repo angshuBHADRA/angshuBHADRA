@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <p  align="right">
 <!--  <img src="https://user-images.githubusercontent.com/61795945/113481795-47d60100-94b9-11eb-9c28-53c4249fe7cb.png"> -->
  
- <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
+<!-- <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
  
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
