@@ -93,6 +93,9 @@ Here are some ideas to get you started:
 <h2 align="right"> <!--😇 Here is some extra information about me.👇--></h2>
 <p  align="right">
 <!--  <img src="https://user-images.githubusercontent.com/61795945/113481795-47d60100-94b9-11eb-9c28-53c4249fe7cb.png"> -->
+ 
+ <img src="https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69N">
+
 </p>
 
 
