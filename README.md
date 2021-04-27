@@ -96,7 +96,7 @@ Here are some ideas to get you started:
  
 <!-- <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif"> -->
  
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+<!--<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"> -->
 
 </p>
 
