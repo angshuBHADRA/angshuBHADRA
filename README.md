@@ -8,7 +8,7 @@
 <body>
 <p  align="left">
 
-<img src="https://media.giphy.com/media/iIRaW4BJQyWCbijASt/giphy.gif" height="300PX" weidth="300PX">
+<img src="https://media.giphy.com/media/iIRaW4BJQyWCbijASt/giphy.gif" height="200PX" weidth="200PX">
 </p>
 
 
@@ -103,14 +103,14 @@ Here are some ideas to get you started:
 
 <!--The QR Code part-->
 
-<h2 align="right"> <!--😇 Here is some extra information about me.👇--></h2>
-<p  align="left">
+<h2 align="right"> 😇 Thanks for visiting my profile</h2>
+<p  align="right">
 <!--  <img src="https://user-images.githubusercontent.com/61795945/113481795-47d60100-94b9-11eb-9c28-53c4249fe7cb.png"> -->
  
 <!-- <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif"> -->
  
 <!-- <img src="https://media.giphy.com/media/iIRaW4BJQyWCbijASt/giphy.gif"> -->
-<img src="https://media.giphy.com/media/H2tKQLMFsI0cgJx5f2/giphy.gif" height="300X" width="300X">
+<img src="https://media.giphy.com/media/H2tKQLMFsI0cgJx5f2/giphy.gif" height="250PX" width="250PX">
 </p>
 
 
