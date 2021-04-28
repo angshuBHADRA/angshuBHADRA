@@ -91,12 +91,12 @@ Here are some ideas to get you started:
 <!--The QR Code part-->
 
 <h2 align="right"> <!--😇 Here is some extra information about me.👇--></h2>
-<p  align="right">
+<p  align="left">
 <!--  <img src="https://user-images.githubusercontent.com/61795945/113481795-47d60100-94b9-11eb-9c28-53c4249fe7cb.png"> -->
  
 <!-- <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif"> -->
  
-<!--<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"> -->
+<img src="https://gph.is/st/EAX4Oem"> 
 
 </p>
 
