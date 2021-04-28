@@ -1,8 +1,22 @@
 <!--  <p  align="middle">
-<img src="https://user-images.githubusercontent.com/61795945/114606941-8e95d900-9cb9-11eb-9a2d-416a97375084.gif">
-</p> -->
+<!--<img src="https://user-images.githubusercontent.com/61795945/114606941-8e95d900-9cb9-11eb-9a2d-416a97375084.gif"> 
 
-![hello-world](https://user-images.githubusercontent.com/61795945/111033170-eaa8db80-8435-11eb-9ee3-3f903a573b96.gif)
+
+<p  align="left">
+
+
+
+<img src="https://media.giphy.com/media/iIRaW4BJQyWCbijASt/giphy.gif"> 
+
+</p>
+
+
+<!--</p> -->
+
+
+
+
+<!--  ![hello-world](https://user-images.githubusercontent.com/61795945/111033170-eaa8db80-8435-11eb-9ee3-3f903a573b96.gif)  -->
 
 # Hi,I'm Angshu Bhadra <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45PX"> 🧑🏻
 
