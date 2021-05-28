@@ -2,7 +2,7 @@
 <!--<img src="https://user-images.githubusercontent.com/61795945/114606941-8e95d900-9cb9-11eb-9a2d-416a97375084.gif"> 
 </p> -->
 
-# 🌈 Hello and Welcome 👀!
+
 
 
 <body>
@@ -18,6 +18,7 @@
 <hr>
 
 <!--  ![hello-world](https://user-images.githubusercontent.com/61795945/111033170-eaa8db80-8435-11eb-9ee3-3f903a573b96.gif)  -->
+# 🌈 Hello and Welcome 👀!
 
 # I'm Angshu Bhadra <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45PX"> 🧑🏻
 
