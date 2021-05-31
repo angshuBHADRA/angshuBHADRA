@@ -18,7 +18,7 @@
 <hr>
 
 <!--  ![hello-world](https://user-images.githubusercontent.com/61795945/111033170-eaa8db80-8435-11eb-9ee3-3f903a573b96.gif)  -->
-<h1 height="300PX" width="300PX"> 🌈 Hello and Welcome 👀! </h1>
+# 🌈 Hello and Welcome 👀! 
 
 # I'm Angshu Bhadra <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45PX"> 🧑🏻
 
