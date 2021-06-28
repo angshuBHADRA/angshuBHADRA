@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 
 
 
-
 <h1 align="center"></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
