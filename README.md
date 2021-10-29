@@ -109,7 +109,11 @@ Here are some ideas to get you started:
 <!-- <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif"> -->
  
 <!-- <img src="https://media.giphy.com/media/iIRaW4BJQyWCbijASt/giphy.gif"> -->
-<img src="https://media.giphy.com/media/H2tKQLMFsI0cgJx5f2/giphy.gif" height="250PX" width="250PX">
+ 
+ <!-- THANKS FOR VISITING MY PROFILE ICON..
+ <img src="https://media.giphy.com/media/H2tKQLMFsI0cgJx5f2/giphy.gif" height="250PX" width="250PX"> -->
+ 
+ 
  <img src="https://media.giphy.com/media/xJFUMgl6gUtVguQwfV/giphy.gif">
 </p>
 <hr>
