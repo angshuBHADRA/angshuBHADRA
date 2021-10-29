@@ -110,6 +110,8 @@ Here are some ideas to get you started:
  
 <!-- <img src="https://media.giphy.com/media/iIRaW4BJQyWCbijASt/giphy.gif"> -->
 <img src="https://media.giphy.com/media/H2tKQLMFsI0cgJx5f2/giphy.gif" height="250PX" width="250PX">
+ 
+ <iframe src="https://giphy.com/embed/tPzuDa62ovAI" width="425" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studio-ghibli-wave-tPzuDa62ovAI">via GIPHY</a></p>
 </p>
 <hr>
 
