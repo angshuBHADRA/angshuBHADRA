@@ -61,7 +61,8 @@ Here are some ideas to get you started:
 - 💭 Ask me about **Java**, **Git** 
 
  
- ### 📄 Do read my resume here: :point_right: [Click Here](https://github.com/angshuBHADRA/resume/raw/main/Resume_AngshuBhadar.pdf)💥
+ ### 📄 Do read my resume here: :point_right: [Click Here](    https://github.com/angshuBHADRA/resume/blob/765f1b561ea761b28c354f3ced224d6e863f2177/Resume_AngshuBhadra%20(2).pdf  <!--https://github.com/angshuBHADRA/resume/raw/main/Resume_AngshuBhadar.pdf-->)💥
+ https://github.com/angshuBHADRA/resume/blob/765f1b561ea761b28c354f3ced224d6e863f2177/Resume_AngshuBhadra%20(2).pdf
 
 
  <!--   <h3 align="left">Connect with me:</h3>
