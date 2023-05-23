@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 - 🌻 You can Star ⭐ the **repositories** you like.
 - 💭 Ask me about **Java**, **Git** 
 
- <!--
+ 
  ### 📄 Do read my resume here: :point_right: [Click Here](https://github.com/angshuBHADRA/resume/raw/main/Resume_AngshuBhadar.pdf)💥
- -->
+ 
 
 
  <!--   <h3 align="left">Connect with me:</h3>
